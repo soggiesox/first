@@ -1,0 +1,6 @@
+<<<<<<< Updated upstream
+
+This is done afterwards
+=======
+this is what I am stashing
+>>>>>>> Stashed changes
